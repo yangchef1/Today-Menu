@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+}
+
+button {
+    border: none;
+    display: inline-block;
+    padding: 18px 36px;
+    border-radius: 15px;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 30px;
+    transition: 0.25s;  
+}
